@@ -1,0 +1,15 @@
+.text {
+  padding: 0rem 0.6rem;
+}
+
+.text-title {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+.text-description {
+  color: hsl(220, 15%, 55%);
+  margin-top: 1rem;
+  font-size: 1rem;
+}
